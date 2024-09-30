@@ -29,3 +29,5 @@ Untuk menu utama, gunakan perintah switch case. Sedangkan untuk submenu, jika ha
 Setiap selesai memilih menu makanan, dilanjutkan dengan input jumlah yang dibeli. Kemudian dihitung total biaya yang harus dibayarkan.
 
 Jika pembeli memiliki kartu member Warung Sederhana, maka akan mendapatkan diskon 5%. Program akan menampilkan biaya akhir; baik untuk pembelian yang mendapat diskon maupun tidak.
+
+@pratamavision
